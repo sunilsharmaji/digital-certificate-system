@@ -1,0 +1,18 @@
+{
+    "name": "sunil/certificate-system",
+    "autoload": {
+        "psr-4": {
+            "CertificateSystem\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sunilshahab",
+            "email": "sunilshahabji@gmail.com"
+        }
+    ],
+    "require": {
+        "lcobucci/jwt": "^4.0",
+        "phpseclib/phpseclib": "~3.0"
+    }
+}
